@@ -2,7 +2,7 @@
 - 👀 I’m interested in a new career and networking! 
 - 🌱 I’m currently learning programming with python
 - 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me mhenkel1@kent.edu
+- 📫 How to reach me linkedin.com/in/mhenkel1/
 
 <!---
 Mirirhm/Mirirhm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
